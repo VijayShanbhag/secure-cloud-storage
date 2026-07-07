@@ -1,4 +1,10 @@
-## secure-cloud-storage
+## Secure-cloud-storage
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-OCI-F80000?logo=oracle&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?logo=nextcloud&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-Enabled-green)
+![HTTPS](https://img.shields.io/badge/HTTPS-TLS-success)
 Self-hosted secure cloud storage deployed on Oracle Cloud using Docker and Nextcloud.
 
 ## Project Overview
@@ -78,5 +84,5 @@ This project provided hands-on experience with cloud infrastructure deployment, 
 
 * Add a honeypot to detect and analyze unauthorized access attempts.
 * Integrate an intrusion detection system (IDS) for enhanced monitoring.
-* Implement automated encrypted backups.
-* Add email notifications for important security events.
+* Configure automated encrypted backups
+* Add email alerts for security events.
