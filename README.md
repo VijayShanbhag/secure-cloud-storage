@@ -5,6 +5,7 @@
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?logo=nextcloud&logoColor=white)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-Enabled-green)
 ![HTTPS](https://img.shields.io/badge/HTTPS-TLS-success)
+
 Self-hosted secure cloud storage deployed on Oracle Cloud using Docker and Nextcloud.
 
 ## Project Overview
