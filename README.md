@@ -58,6 +58,8 @@ Secure Cloud Storage is a self-hosted cloud storage solution deployed on Oracle 
 
 The project is deployed on an Oracle Cloud virtual machine running Ubuntu Server. Nextcloud is hosted inside a Docker container and is accessible securely through HTTPS using a DuckDNS domain.
 
+![Architecture](images/architecture.png)
+
 
 ## Deployment Process
 
@@ -79,6 +81,25 @@ This project was deployed using the Oracle Cloud Free Tier to demonstrate secure
 ## Learning Outcomes
 
 This project provided hands-on experience with cloud infrastructure deployment, Linux server management, Docker containerization, secure remote access, HTTPS configuration, DNS management, and storage administration. It also improved my understanding of deploying and maintaining secure services in a cloud environment.
+
+
+## Security Validation
+
+### Nextcloud Security Scan
+
+![Nextcloud Security](images/nextcloud-security.png)
+
+### Security Headers
+
+![Security Headers](images/security-headers.png)
+
+### Fail2Ban
+
+![Fail2Ban](images/fail2ban-status.png)
+
+### Docker
+
+![Docker](images/docker-ps.png)
 
 
 ## Future Improvements
